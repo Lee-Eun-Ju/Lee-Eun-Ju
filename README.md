@@ -21,7 +21,7 @@
 (2021.08 – 2023.01) 의료 빅데이터 · AI 기반 시기능 이상 조기 발견 기술 개발 사업   
 
 ### 🤔 Skills
-<img src="https://img.shields.io/badge/#276DC3-3178C6?style=flat&logo=#276DC3&logoColor=white"/>
+<img src="https://img.shields.io/badge/#276DC3-3178C6?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/#3776AB-3178C6?style=flat&logo=#3776AB&logoColor=white"/>
 <img src="https://img.shields.io/badge/#4479A1-3178C6?style=flat&logo=#4479A1&logoColor=white"/>
 
