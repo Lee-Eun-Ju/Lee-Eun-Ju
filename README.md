@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-3178C6?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-3178C6?style=flat&logo=MySQL&logoColor=white"/>
 
 ### 💬 Links
-<img src="https://img.shields.io/badge/tistory-3178C6?style=flat&logo=tistory&logoColor=white"/> https://eunju-lee.tistory.com/
-<img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/> dmswn1578@naver.com
+<img src="https://img.shields.io/badge/tistory-3178C6?style=flat&logo=tistory&logoColor=white"/> https://eunju-lee.tistory.com/   
+<img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Mail&logoColor=white"/> dmswn1578@naver.com
 
 
 
