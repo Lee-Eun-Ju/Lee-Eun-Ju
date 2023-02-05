@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### 🔭 Education
 (2015.03 - 2018.02) 포항 유성여자고등학교  
@@ -21,11 +20,11 @@
 (2021.08 – 2023.01) 의료 빅데이터 · AI 기반 시기능 이상 조기 발견 기술 개발 사업   
 
 ### 🤔 Skills
-<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/#3776AB-3178C6?style=flat&logo=#3776AB&logoColor=white"/>
-<img src="https://img.shields.io/badge/#4479A1-3178C6?style=flat&logo=#4479A1&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-3178C6?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-3178C6?style=flat&logo=MySQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/#000000-3178C6?style=flat&logo=#000000&logoColor=white"/>
+### 💬 Links
+<img src="https://img.shields.io/badge/tistory-3178C6?style=flat&logo=tistory&logoColor=white"/> https://eunju-lee.tistory.com/
+<img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Gmail&logoColor=white"/> dmswn1578@naver.com
 
 
 
