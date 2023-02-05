@@ -25,8 +25,10 @@
 </p>
 
 ### 💬 Links
-<img src="https://img.shields.io/badge/tistory-3178C6?style=flat&logo=tistory&logoColor=white"/> https://eunju-lee.tistory.com/   
-<img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Mail&logoColor=white"/> dmswn1578@naver.com
+<p align="center">
+  <img src="https://img.shields.io/badge/tistory-3178C6?style=flat&logo=tistory&logoColor=white"/> https://eunju-lee.tistory.com/   
+  <img src="https://img.shields.io/badge/Gmail-3178C6?style=flat&logo=Mail&logoColor=white"/> dmswn1578@naver.com
+</p>
 
 
 
