@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=80&animation=fadeIn&desc=Eunju's%20Github%20Profile&descAlignY=65&descAlign=60)
 
 ### 🔭 Education
 - (2015.03 - 2018.02) 포항 유성여자고등학교  
