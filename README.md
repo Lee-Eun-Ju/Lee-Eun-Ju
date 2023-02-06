@@ -32,7 +32,7 @@
 - (2021.08 – 2023.01) 의료 빅데이터 · AI 기반 시기능 이상 조기 발견 기술 개발 사업   
 
 ## 📫 Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Lee-Eun-Ju)](https://solved.ac/Lee-Eun-Ju) ![Eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Eun-Ju&theme=buefy&show_icons=true) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Lee-Eun-Ju)](https://solved.ac/Lee-Eun-Ju) ![Eunju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Eun-Ju&hide=issues&show_icons=true)
 
 <!--
 **Lee-Eun-Ju/Lee-Eun-Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
