@@ -6,7 +6,7 @@
 ### Hi there, I'm Eunju Lee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
 ### 💬 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/e._.juu/) [![Tistory Badge](https://img.shields.io/badge/-Tistory-%2312100E.svg?style=flat-square&logo=Tistory&logoColor=white)](https://eunju-lee.tistory.com/) <img src="https://img.shields.io/badge/dmswn1578@naver.com-008000?style=flat&logo=GMail&logoColor=white"/>
 
-### ⚡ <img src="https://img.shields.io/badge/Python-1F7FB6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-000066?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-FF9933?style=flat&logo=MySQL&logoColor=white"/>
+### 💪 <img src="https://img.shields.io/badge/Python-1F7FB6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-000066?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-FF9933?style=flat&logo=MySQL&logoColor=white"/>
 
 </div>
      
